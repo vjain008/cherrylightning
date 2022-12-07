@@ -1,0 +1,6 @@
+{
+    "name": "Lightning Input Handler WebApp",
+    "identifier": "uk.sky.lightning.InputHandlerWebApp",
+    "version": "1.44.0",
+    "icon": "./static/icon.png"
+}

@@ -1,0 +1,33 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "keys": {
+      "36": "Home",
+      "48": "Zero",
+      "49": "One",
+      "50": "Two",
+      "51": "Three",
+      "52": "Four",
+      "53": "Five",
+      "54": "Six",
+      "55": "Seven",
+      "56": "Eight",
+      "57": "Nine",
+      "27": "Back",
+      "13": "Center",
+      "106": "Mute",
+      "107": "VolumeUp",
+      "109": "VolumeDown",
+      "179": "PlayPause"
+    },
+    "debug": false
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": false
+  }
+}

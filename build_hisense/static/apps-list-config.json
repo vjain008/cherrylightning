@@ -1,0 +1,109 @@
+{
+  "visibleIconsCount": 5,
+  "iconWidth": 140,
+  "iconHeight": 140,
+  "backgroundIconAlpha": 0.5,
+  "aciveAppIconScale": 1.3,
+  "iconsSpacing": 40,
+  "animationDuration": 0.5,
+  "_comment1": "At first 'visible: false' apps are filtered out. Position of visible apps should start from 1. ",
+  "_comment2": "Central icon position: (visibleIconsCount + 1)/2. Autoclone will took place if there is less apps than visibleIconsCount",
+  "apps": [
+    {
+      "visible": false,
+      "imgPath": "images/fast-like-a-fox.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.waybefore.fastlikeafox",
+      "friendlyAppName": "Fast like a Fox",
+      "position": "3"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/crossy-road.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.yodo1.crossyroad",
+      "friendlyAppName": "Crossy Road",
+      "position": "4"
+    },
+    {
+      "visible": false,
+      "imgPath": "images/beach-buggy-racing.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.vectorunit.purple.googleplay",
+      "friendlyAppName": "BB Racing",
+      "position": "5"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/zoom.png",
+      "appType": "CherryAppLauncher",
+      "appName": "us.zoom.tv",
+      "friendlyAppName": "Zoom Rooms",
+      "position": "2"
+    },
+    {
+      "visible": false,
+      "imgPath": "images/teams.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.microsoft.ubi",
+      "friendlyAppName": "MS Teams",
+      "position": "9"
+    },
+    {
+      "visible": false,
+      "imgPath": "images/mars.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.pomelogames.MarsGame",
+      "friendlyAppName": "Mars",
+      "position": "TBC"
+    },
+    {
+      "visible": false,
+      "imgPath": "images/does-not-commute.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.mediocre.commute",
+      "friendlyAppName": "Does Not Commute",
+      "position": "TBC"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/withu-dark.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.withutraining.tv",
+      "friendlyAppName": "WithU",
+      "position": "6"
+    },
+    {
+      "visible": false,
+      "imgPath": "images/green-screen.png",
+      "appType": "GreenScreenDemo",
+      "appName": "uk.sky.cherry.greenscreendemo",
+      "friendlyAppName": "Green Screen Demo",
+      "position": "1"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/video-collection.png",
+      "appType": "CherryAppLauncher",
+      "appName": "uk.sky.iaai.videocollection",
+      "friendlyAppName": "Video Collection",
+      "position": "7"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/withu-light.png",
+      "appType": "CherryAppLauncher",
+      "appName": "com.withutraining.WithUTVApp",
+      "friendlyAppName": "WithU",
+      "position": "8"
+    },
+    {
+      "visible": true,
+      "imgPath": "images/paw-patrol.png",
+      "appType": "CherryAppLauncher",
+      "appName": "uk.sky.iaai.playexperience",
+      "friendlyAppName": "Play Experience",
+      "position": "10"
+    }
+  ]
+}
